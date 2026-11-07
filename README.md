@@ -6,6 +6,11 @@ A natural language processing (NLP) application designed to perform textual sent
 
 Sentiment analysis (opinion mining) is a computational linguistic technique used to determine whether user opinions, reviews, or social media statements convey positive, negative, or neutral sentiment. This project processes a collection of textual evaluation statements, calculates continuous polarity indices, and renders statistical distributions into an analytical chart.
 
+
+## Visualization Preview
+
+[![Visualization Preview Status](https://img.shields.io/badge/Visualization_Preview-Documentation_in_Progress-2563eb?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ANTARTICA1/Analisis-Sentimen)
+
 ## Theoretical Foundation
 
 ### 1. Polarity Metric
